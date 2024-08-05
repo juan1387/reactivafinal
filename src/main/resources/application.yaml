@@ -6,6 +6,6 @@ spring:
   application:
     name: polizas
   r2dbc:
-    url: r2dbc:postgresql://localhost:5432/demo
+    url: r2dbc:postgresql://localhost:5432/catshout
     username: postgres
     password: admin
